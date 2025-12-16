@@ -22,7 +22,7 @@ A clean and modular Java Spring Boot backend that provides essential banking fea
 - Spring Web
 - Spring Data JPA
 - Hibernate
-- MySQL or PostgreSQL
+- MySQL
 - Maven
 
 ---
@@ -71,6 +71,8 @@ Open `application.properties` and update the database settings:
 ---
 
 ## Folder Overview
+- **config**: Security Configration
+- **security**: JWT Authentication
 - **controller**: REST API endpoints
 - **service**: Business logic
 - **repository**: Database access
