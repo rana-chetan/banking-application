@@ -34,4 +34,5 @@ public class Transaction {
 
     @Column(precision = 19, scale = 2)
     private BigDecimal balanceAfter;
+
 }
