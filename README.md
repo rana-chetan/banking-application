@@ -71,7 +71,7 @@ Open `application.properties` and update the database settings:
 ---
 
 ## Folder Overview
-- **config**: Security Configration
+- **config**: Security Configuration
 - **security**: JWT Authentication
 - **controller**: REST API endpoints
 - **service**: Business logic
