@@ -81,9 +81,6 @@ Open `application.properties` and update the database settings:
 ---
 
 ## Future Improvements
-- Add authentication and authorization
-- Add role based access control
-- Add pagination for transaction history
 - Add unit tests and integration tests
 
 ---
